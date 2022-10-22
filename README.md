@@ -2,7 +2,7 @@
  
  
  - 👩‍💻Cursando Engenharia de Software
- - 👩🏻‍🏫Estudando: PYTHON
+-  👩‍💻Estudando: PYTHON
  
  
   <div align="center">
