@@ -5,13 +5,7 @@
 -  👩‍💻Estudando: PYTHON
  
  
-  <div align="center">
-   
-  <a href="https://github.com/brunavillanova">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunavillanova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunavillanova&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+  
 ## Tecnologia que eu uso 
 <div style="display: inline_block"><br>
 <div style="display: inline_block">
