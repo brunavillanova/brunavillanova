@@ -1,4 +1,5 @@
-- Olá eu sou a Bruna Villanova😊 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=37BFFB&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+Eu+sou+a+Bruna+Villanova%F0%9F%98%8A+)](https://git.io/typing-svg)
  
  
  - 👩‍💻Cursando Engenharia de Software
@@ -30,7 +31,9 @@
  <a href="https://www.linkedin.com/in/bruna-villanova-319204206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:brunnavillanova@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/brunnavillanova/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+
+
+ ##cobra
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
