@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=37BFFB&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+Eu+sou+a+Bruna+Villanova%F0%9F%98%8A+)](https://git.io/typing-svg)
- 
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=37BFFB&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+Eu+sou+a+Bruna+Villanova%F0%9F%98%8A+" alt="Typing SVG" /></a>
  
  - 👩‍💻Cursando Engenharia de Software
 -  👩‍💻Estudando: PYTHON
