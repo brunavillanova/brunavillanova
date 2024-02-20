@@ -3,7 +3,7 @@
 
 
  - 👩‍💻Cursando Engenharia de Software
--  👩‍💻Estudando: PYTHON
+
  
  
   
