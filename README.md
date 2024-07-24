@@ -18,6 +18,8 @@ Estou cursando Engenharia de Software, onde desenvolvo habilidades em programaç
  <img align="center" alt="Logo do CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Logo do git height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="center" alt="Logo do github height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="center" alt="Logo do github height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+
 
 
 ##
