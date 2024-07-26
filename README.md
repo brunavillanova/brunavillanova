@@ -4,7 +4,7 @@
 
  👩‍💻 Estudante de Engenharia de Software
 
-Estou cursando Engenharia de Software, onde desenvolvo habilidades em programação, desenvolvimento de sistemas e metodologias ágeis. Sou apaixonada por resolver problemas complexos e criar soluções inovadoras. Meu foco é na construção de aplicativos eficientes, seguros e escaláveis, com ênfase em experiências de usuário excepcionais. Estou sempre buscando aprender novas tecnologias e aprimorar minhas competências para me tornar uma engenheira de software de excelência.
+"Sou estudante de Engenharia de Software com conhecimentos em Python, HTML, CSS, JavaScript e React, habilidades que me permitem desenvolver aplicações web interativas de forma eficaz. Como profissional em constante aprendizado, estou sempre buscando atualizar minhas habilidades técnicas e explorar novas tendências no campo da Engenharia de Software. Estou aberta a desafios empolgantes e oportunidades de crescimento profissional, onde eu possa contribuir com minha experiência e conhecimento."
 
  
  
