@@ -2,9 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=37BFFB&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+Eu+sou+a+Bruna+Villanova%F0%9F%98%8A+)](https://git.io/typing-svg)
 
 
- 👩‍💻 Estudante de Engenharia de Software
+<h3 align="center">
+💻 Front-end Developer • 🎓 Engenheira de Software • 🚀 Sempre aprendendo
+</h3>
 
-"Sou estudante de Engenharia de Software com conhecimentos em Python, HTML, CSS, JavaScript e React, habilidades que me permitem desenvolver aplicações web interativas de forma eficaz. Como profissional em constante aprendizado, estou sempre buscando atualizar minhas habilidades técnicas e explorar novas tendências no campo da Engenharia de Software. Estou aberta a desafios empolgantes e oportunidades de crescimento profissional, onde eu possa contribuir com minha experiência e conhecimento."
 
  
  
